@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.signUp{
+    border: none;
+    border-radius: 5px 5px;
+    background-color: #4CAF4F;
+    color: #f1f3f1;
+    padding: 5px;
+}
+.login{
+    border: none;
+    background:none;
+    color: #4CAF4F;
+    font-weight: 1000;
+}
+.nav >div> h3{
+    font-size: 200px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+}
+.hero-section{
+    justify-content: space-evenly;
+    display: flex ;
+    padding-top: 90px;
+
+}
+.bottom{
+    display: flex ;
+    justify-content: space-evenly;
+
+    font-family: "IBM Plex sans", serif;
+}
